@@ -3,6 +3,7 @@ Graduanda em Ciência da Computação (UNINASSAU 2029)
 Focada em Lógica de Programação, Cybersecurity e Automação.
 
 🔭 Atualmente explorando / Currently exploring:
+
 PT: Consolidando fundamentos de algoritmos com C e Python.
 
 EN: Strengthening algorithm fundamentals with C and Python.
