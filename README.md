@@ -1,12 +1,12 @@
 🇧🇷 Portfólio de Marina | 🇺🇸 Marina's Portfolio
 Graduanda em Ciência da Computação (UNINASSAU 2029)
-Focada em Lógica de Programação, Cybersecurity e Automação.
+Focada em Full Stack e Cybersecurity
 
 🔭 Atualmente explorando / Currently exploring:
 
-PT: Consolidando fundamentos de algoritmos com C e Python.
+PT: Aprendendo HTML, CSS e JavaScript
 
-EN: Strengthening algorithm fundamentals with C and Python.
+EN: Learning HTML, CSS and JavaScript
 
 PT: Participando de bootcamps focados em Ethical Hacking e defesa cibernética.
 
